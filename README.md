@@ -35,11 +35,17 @@
 
 course_app/
 ├── app.py # Главное меню приложения
+
 ├── db.py # Подключение к базе данных
+
 ├── setup_db.py # Создание и заполнение БД
+
 ├── analytics.py # Аналитические SQL-запросы
+
 ├── export_json.py # Экспорт данных в JSON
+
 ├── import_json.py # Импорт данных из JSON
+
 
 yaml
 Copy code
