@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "studentid": 1,
+      "fullname": "Иванов Илья",
+      "studentgroup": "ИКБО-11"
+    },
+    {
+      "studentid": 2,
+      "fullname": "Петрова Мария",
+      "studentgroup": "ИКБО-11"
+    },
+    {
+      "studentid": 3,
+      "fullname": "Сидоров Кирилл",
+      "studentgroup": "ИКБО-12"
+    }
+  ],
+  "teachers": [
+    {
+      "teacherid": 1,
+      "teachername": "Смирнов А.П."
+    },
+    {
+      "teacherid": 2,
+      "teachername": "Кузнецова О.Н."
+    }
+  ],
+  "courses": [
+    {
+      "courseid": 1,
+      "coursename": "Базы данных",
+      "teacherid": 1
+    },
+    {
+      "courseid": 2,
+      "coursename": "Программирование",
+      "teacherid": 2
+    }
+  ],
+  "grades": [
+    {
+      "studentid": 1,
+      "courseid": 1,
+      "grade": 5
+    },
+    {
+      "studentid": 1,
+      "courseid": 2,
+      "grade": 5
+    },
+    {
+      "studentid": 2,
+      "courseid": 1,
+      "grade": 4
+    }
+  ]
+}
