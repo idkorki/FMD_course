@@ -63,6 +63,7 @@ pip install psycopg2
 
 markdown
 Copy code
+
 4. Запустить приложение:
 python app.py
 
